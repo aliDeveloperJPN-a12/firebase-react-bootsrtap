@@ -1,0 +1,10 @@
+.back {
+    margin: 100px;
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: red;
+}
+.t {
+    margin-top: 20px;
+}
